@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Describe your favourite-3</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>My Inspirations</h1>
+    <h2>Click on the pictures to veiw my inspiration...</h2>
+    <span class="sp">
+        <a href="https://www.jkrowling.com/" target="_blank">
+            <img id="picture" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvDP5amix_LiO3k_ciVr0hebe3u6aWY9eWcg&usqp=CAU">
+        </a>
+
+    </span>
+
+
+    <span class="sp">
+        <a href="https://tv-asahicontents.com/en/program/shinchan" target="_blank">
+            <img id="picture1" src="https://m.media-amazon.com/images/M/MV5BYzc1NDk0ODItNzllYi00M2ZiLWE3YWQtNWM5YjZkNWZlZmVlXkEyXkFqcGdeQXVyNTk5ODg4NDA@._V1_.jpg">
+        </a>
+    </span>
+
+</body>
+
+</html>
